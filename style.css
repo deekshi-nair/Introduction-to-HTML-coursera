@@ -1,0 +1,19 @@
+h1
+{
+    color: blue;
+}
+p{
+    font-family: fantasy,Verdana, Geneva, Tahoma, sans-serif;
+    color:chartreuse;
+}
+li{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+}
+.gg
+{
+    font-size: medium;
+    font-family: serif;
+    font-style: oblique;
+}
